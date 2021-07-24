@@ -2,8 +2,9 @@
   "main": {
     "name":"Rabiul Islam",
     "description":"I am a web developer and I use react.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "logo":"logo.png",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am a front-end professional web developer with 3 years of experience. I always like to do web coding, fixing the problem and designing any website. 👉 FRONT END DEVELOPER ★Html ★Css ★JavaScript ★React Js ★JQuery ★Bootstrap ★Material UI ★WordPress 👉 BACK END DEVELOPER ★Node Js ★Express Js ★PHP 👉 DATABASE ★MongoDB ★MySql .Looking for a challenging career that demands the best of my ability to have a career that helps me to You.",
     "contactmessage":"Here you can contact with me",
     "email": "rabiulislam12360@gmail.com",
     "phone": "01784014307",
@@ -108,76 +109,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Ema-John-Simple",
         "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"07.jpg",
+        "url":"https://ema-john-simple-d9509.web.app/"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"Volunteer-network",
         "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"08.jpg",
+        "url":"https://volunteer-network-31422.web.app/"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Creative-agency",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"09.jpg",
+        "url":"https://creative-agency-650cf.web.app/"
       }
     ]
   }

@@ -45,6 +45,11 @@
       font: 11px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
+   ul.logo li{
+      top: 15px;
+      left: 0;
+      font-size: medium;
+   }
 
 
    /* About Section
@@ -99,6 +104,19 @@
 
    /* mobile navigation
    -------------------------------------------------------------------- */
+   ul.logo li{
+      top: 15px;
+      left: 0;
+      width: 50%;
+      margin: auto;
+      font-size: medium;
+   }
+   ul.logo img{
+      width: 60px;
+      height: 30px;
+      background-color: transparent;
+      color: #fff;
+   }
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
       /* background: transparent !important; */
@@ -124,6 +142,7 @@
       position: relative;
       top: 0px;
       right: 30px;
+      z-index: 100;
    }
 
 	#nav-wrap > a:before,

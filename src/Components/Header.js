@@ -8,6 +8,7 @@ class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
+    const logo = "images/" + this.props.data.logo;
     const profilepic = "images/" + this.props.data.image;
     const project = this.props.data.project;
     const github = this.props.data.github;
@@ -27,9 +28,16 @@ class Header extends Component {
           </a>
           <ul className="three columns logo">
             <li>
-              <a className="smoothscroll" href="#home">
-              Rabiul Islam
+            <a className="smoothscroll" href="#home">
+            <img
+                src={logo}
+                alt="Logo"
+              />
               </a>
+            
+              {/* <a className="smoothscroll" href="#home">
+              Rabiul Islam
+              </a> */}
             </li>
           </ul>
           <ul id="nav" className="nav nine columns">

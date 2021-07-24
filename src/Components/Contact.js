@@ -109,7 +109,6 @@ class Contact extends Component {
                 <h4>Address and Phone</h4>
                 <p className="address">
                   {name}
-                  <br />
                   {street} <br />
                   {city}, {state} {zip}
                   <br />
@@ -122,10 +121,8 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Md Rabiul Islam Rabbi updated his some latest projects, here you can see those work section or 
+                      <a href="./"> Visit</a>
                     </span>
                     <b>
                       <a href="./">2 Days Ago</a>
@@ -133,11 +130,8 @@ class Contact extends Component {
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Rabiul Islam Rabbi updated his portfolio. Here is the link 
+                      <a href="./"> Visit</a>
                     </span>
                     <b>
                       <a href="./">3 Days Ago</a>
